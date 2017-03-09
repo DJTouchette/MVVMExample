@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hello.Forms.Views.FeaturesView"
+			 xmlns:cm="clr-namespace:Caliburn.Micro.Xamarin.Forms;assembly=Caliburn.Micro.Platform.Xamarin.Forms"
+	>
+	
+	<StackLayout>
+		<Label Text="Features" />
+		<Label Text="{Binding TextChange}"/>
+		<Label Text="{Binding Counter}"/>
+		<Button cm:Message.Attach="ChangeText" Text="MVVM Son"/>
+		<Button cm:Message.Attach="Increment" Text="++"/>
+	</StackLayout>
+
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{89657E32-7349-4632-93A3-C581E2ABBA11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello/ViewModels/LoginViewModel.cs">
+    <Files>
+      <File FileName="Hello/HelloPage.xaml.cs" Line="13" Column="1" />
+      <File FileName="Hello/ViewModels/FeaturesViewModel.cs" Line="9" Column="23" />
+      <File FileName="Hello/App.xaml" Line="1" Column="1" />
+      <File FileName="Hello/App.xaml.cs" Line="3" Column="16" />
+      <File FileName="Hello/ViewModels/LoginViewModel.cs" Line="13" Column="12" />
+      <File FileName="Hello/Views/FeaturesView.xaml.cs" Line="18" Column="2" />
+      <File FileName="Hello/Views/LoginView.xaml.cs" Line="19" Column="1" />
+      <File FileName="Hello/App.cs" Line="23" Column="4" />
+      <File FileName="iOS/AppDelegate.cs" Line="13" Column="51" />
+      <File FileName="iOS/CaliburnAppDeligate.cs" Line="26" Column="3" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Hello.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.27DE8CBA-12DF-4053-9337-A407A31C3723" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
